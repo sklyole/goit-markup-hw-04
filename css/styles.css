@@ -190,7 +190,6 @@ img {
   text-align: center;
   color: #fff;
   max-width: 496px;
-  padding-top: 191px;
   margin: 0 auto 45px;
 }
 
@@ -336,6 +335,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  margin-bottom: 8px;
 }
 
 .team-list {
